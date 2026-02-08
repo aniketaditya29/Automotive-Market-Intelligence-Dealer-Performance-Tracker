@@ -1,4 +1,4 @@
-# Automobile Sales & Market Trend Analysis
+# Automotive Market Intelligence & Dealer Performance Tracker
 
 This project analyzes multi-year automobile sales data to uncover market trends, dealership performance, and the growing impact of Electric Vehicles (EVs).
 Data was cleaned and processed in Python using Pandas and NumPy, then visualized in Power BI to generate actionable business insights.
