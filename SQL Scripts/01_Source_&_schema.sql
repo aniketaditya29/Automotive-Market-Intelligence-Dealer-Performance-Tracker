@@ -20,7 +20,7 @@ CREATE TABLE automobile_sales (
 );
 --Load Data----------------------------------------------
 COPY automobile_sales
-FROM '"C:\Users\anike\OneDrive\Desktop\Aniket\Automobile sales power bi project\datasheet_uncleaned\automobile_sales_cleaned.csv"'
+FROM 'copy file path'
 DELIMITER ','
 CSV HEADER;
 
