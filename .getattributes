@@ -1,9 +1,0 @@
-# SQL as a programming language
-*.sql linguist-detectable=true
-*.sql linguist-language=SQL
-
-#Jupyter Notebook as a programming language
-*.ipynb linguist-detectable=true
-
-#Python as a programming language
-*.py linguist-detectable=true
