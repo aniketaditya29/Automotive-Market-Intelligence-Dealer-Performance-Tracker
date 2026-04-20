@@ -40,14 +40,14 @@ Q1 (Jan–Mar) accounts for 26.06% of annual revenue, driven by India's fiscal y
 ---
 ## 📸 Sample Visuals
 
-![Annual Revenue Trend](Python Visuals/01_annual_revenue_trend.png)
-![Revenue by Category](Python Visuals/02_revenue_by_category.png)
-![EV Trend](Python Visuals/03_fuel_type_trend.png)
-![Dealer Ranking](Python Visuals/04_dealer_ranking.png)
-![Pareto Model](Python Visuals/05_pareto_models.png)
-![Regional Heatmap](Python Visuals/06_regional_heatmap.png)
-![Satisfaction vs Revenue](Python Visuals/07_satisfaction_vs_revenue.png)
-![Seasonality ](Python Visuals/08_monthly_seasonality.png)
+![Annual Revenue Trend](Py_Visuals/01_annual_revenue_trend.png)
+![Revenue by Category](Py_Visuals/02_revenue_by_category.png)
+![EV Trend](Py_Visuals/03_fuel_type_trend.png)
+![Dealer Ranking](Py_Visuals/04_dealer_ranking.png)
+![Pareto Model](Py_Visuals/05_pareto_models.png)
+![Regional Heatmap](Py_Visuals/06_regional_heatmap.png)
+![Satisfaction vs Revenue](Py_Visuals/07_satisfaction_vs_revenue.png)
+![Seasonality ](Py_Visuals/08_monthly_seasonality.png)
 
 ---
 
