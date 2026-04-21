@@ -36,21 +36,6 @@ Only 14.7% of dealer-region combinations achieved both high satisfaction and hig
 **5. March and Q1 are the strongest period — not Diwali**
 Q1 (Jan–Mar) accounts for 26.06% of annual revenue, driven by India's fiscal year-end effect. October — Diwali month — is the most consistent trough, appearing as the weakest month in 4 of 6 years.
 
-
----
-## 📸 Sample Visuals
-
-![Annual Revenue Trend](Py_Visuals/01_annual_revenue_trend.png)
-![Revenue by Category](Py_Visuals/02_revenue_by_category.png)
-![EV Trend](Py_Visuals/03_fuel_type_trend.png)
-![Dealer Ranking](Py_Visuals/04_dealer_ranking.png)
-![Pareto Model](Py_Visuals/05_pareto_models.png)
-![Regional Heatmap](Py_Visuals/06_regional_heatmap.png)
-![Satisfaction vs Revenue](Py_Visuals/07_satisfaction_vs_revenue.png)
-![Seasonality ](Py_Visuals/08_monthly_seasonality.png)
-
----
-
 ## Project Structure
 
 ```
@@ -138,7 +123,7 @@ All visuals cross-filter dynamically — clicking any dealer in the ranking char
 
 | Chart | Finding |
 |-------|---------|
-| Annual Revenue Trend | Revenue peaked 2023, declining 2024–2025 with stable volume |
+| Annual Revenue Trend | Revenue peaked in 2023, declining 2024–2025 with stable volume |
 | Revenue by Category | SUV = 65.79% of all revenue |
 | Fuel Type Trend | EV share flat at 9–10% — no acceleration across 6 years |
 | Dealer Ranking | BYD dominates — ₹47.2bn vs next dealer at ₹36bn |
@@ -149,6 +134,18 @@ All visuals cross-filter dynamically — clicking any dealer in the ranking char
 
 ---
 
+## 📸 Sample Visuals
+
+![Annual Revenue Trend](Py_Visuals/01_annual_revenue_trend.png)
+![Revenue by Category](Py_Visuals/02_revenue_by_category.png)
+![EV Trend](Py_Visuals/03_fuel_type_trend.png)
+![Dealer Ranking](Py_Visuals/04_dealer_ranking.png)
+![Pareto Model](Py_Visuals/05_pareto_models.png)
+![Regional Heatmap](Py_Visuals/06_regional_heatmap.png)
+![Satisfaction vs Revenue](Py_Visuals/07_satisfaction_vs_revenue.png)
+![Seasonality ](Py_Visuals/08_monthly_seasonality.png)
+
+---
 
 ## Dataset
 
